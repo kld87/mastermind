@@ -2,7 +2,7 @@
 
 ## About
 
-A browser-based implementation of [Super Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game), a colour-combination-guessing puzzle game I loved as a kid. 
+A browser-based implementation of [Super Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)), a colour-combination-guessing puzzle game I loved as a kid. 
 
 ## Demo
 
