@@ -1,0 +1,87 @@
+/* fix weird icon positioning in buttons */
+button i.icon {
+  /*margin: 0 !important;*/
+}
+
+a, a:link, a:visited, a:hover, a:active {
+  cursor: pointer;
+  color: #FFF;
+}
+
+body {
+  padding: 0.5rem;
+  background-color: #204;
+}
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  vertical-align: top;
+  padding: 0.5rem;
+}
+
+.ellipses-row {
+  text-align: center;
+}
+
+.count-row {
+  text-align: right;
+  font-weight: bold;
+  width: 3rem;
+}
+
+.peg-row {
+  margin-left: 2rem;
+  margin-right: 1rem;
+}
+
+.peg-row button, .popup button {
+  min-width: 4rem;
+  height: 2.5rem;
+  vertical-align: text-bottom !important;
+}
+
+.action-row {
+  width: 5rem;
+}
+
+.result-button {
+  /*width: 4rem;*/
+}
+.submit-button {
+  width: 100%;
+}
+
+.peg-popup-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 8.5rem;
+  justify-content: space-around;
+  /*height: 6.5rem;*/
+}
+.peg-popup-container button {
+  margin-top: 0.5rem !important;
+}
+
+.active-row {
+  background: #CFF;
+}
+
+.ui.segment {
+  margin: 0.25rem;
+}
+
+
+.ui.button:disabled, .ui.disabled.button {
+  opacity: 1 !important;
+}
