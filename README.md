@@ -6,7 +6,7 @@ A browser-based implementation of [Super Mastermind](https://en.wikipedia.org/wi
 
 ## Demo
 
-[http://kevindawe.ca/mastermind](http://kevindawe.ca/mastermind)
+[http://kevindawe.ca/mastermind](http://kevindawe.ca/mastermind/)
 
 ## Features
 
